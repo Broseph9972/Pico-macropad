@@ -6,8 +6,13 @@
   ==================================================================
 -->
 
-## 10/26/2025 - mapped out pcb and added leds  
+## 10/26/2025 6:23 PM - mapped out pcb and added leds  
 
 i added leds to the bottom, finished wiring and set it up how i wanted it. i also started work on what the macros would do but havent gotten much further than that.![Screenshot 2025-10-26 212908](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyNywicHVyIjoiYmxvYl9pZCJ9fQ==--17201a542dc5db33a74783ed3c20584a52cea404/Screenshot%202025-10-26%20212908.png)
+  
+
+## 10/26/2025 6:27 PM - Learned Simple duckyscript  
+
+Duckyscript is a language for hids made for the Usb rubber ducky https://shop.hak5.org/products/usb-rubber-ducky, and ive used a pi pico with dbisu's pico-ducky thingy before so thats what ium gonan use if possible. I also made a few example scripts and tested them on friend's chromebooks. ![Screencast from 03-03-2023 01_08_58 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ffce72993e1ea5ba5db659927d85c15c85c9f1a/Screencast%20from%2003-03-2023%2001_08_58%20PM.gif)
   
 
