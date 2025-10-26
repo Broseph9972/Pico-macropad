@@ -16,3 +16,9 @@ i added leds to the bottom, finished wiring and set it up how i wanted it. i als
 Duckyscript is a language for hids made for the Usb rubber ducky https://shop.hak5.org/products/usb-rubber-ducky, and ive used a pi pico with dbisu's pico-ducky thingy before so thats what ium gonan use if possible. I also made a few example scripts and tested them on friend's chromebooks. ![Screencast from 03-03-2023 01_08_58 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ffce72993e1ea5ba5db659927d85c15c85c9f1a/Screencast%20from%2003-03-2023%2001_08_58%20PM.gif)
   
 
+## 10/26/2025 7 PM - ROUTED PCB I HOPE IT WORKS  
+
+Finished PCB![Screenshot 2025-10-26 220944](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--3170d9214ef17cd6258da1ba4ede99b5eccd764f/Screenshot%202025-10-26%20220944.png)
+
+I am very sure this will have some issues but ill ask someone on dc or something. after this idk what im doing tbh but i might just buy the parts and build it  
+
